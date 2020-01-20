@@ -1,8 +1,8 @@
 [package]
 name = "server"
 version = "0.1.0"
-authors = ["Alexander Andreev <al101an@mail.ru>"]
-edition = "2018"
+authors = ["Kirbina Valeriya <vkirbina@mail.ru>"]
+edition = "2020"
 
 [dependencies]
 clap = "2"
